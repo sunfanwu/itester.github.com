@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://itester.com
+title: iTester/Blog
+subtitle: 关注一切与测试有关的
+author: Arthur Feng
 simple_search: http://google.com/search
 description:
 
@@ -85,12 +85,12 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: Arthur
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: arthur
+disqus_show_comment_count: ture
 
 # Google Analytics
 google_analytics_tracking_id:
