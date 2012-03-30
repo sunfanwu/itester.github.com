@@ -1,62 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>iTester/Blog</title>
-    <meta name="author" content="Arthur Feng">
-
+  <title><![CDATA[iTester/Blog]]></title>
+  <link href="http://iTester.github.com/atom.xml" rel="self"/>
+  <link href="http://iTester.github.com/"/>
+  <updated>2012-03-30T23:30:22+08:00</updated>
+  <id>http://iTester.github.com/</id>
+  <author>
+    <name><![CDATA[Arthur Feng]]></name>
     
-    <meta name="description" content="Kindle Touch ﻿&#8212;
-layout: post
-title: &#8220;Kindle Touch&#8221;
-date: 2012-03-30 21:37
-comments: true categories: life 新入手了一台Kindle Touch， &hellip;">
-    
-    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-    <link href="/atom.xml" rel="alternate" title="iTester/Blog" type="application/atom+xml">
-    <link rel="canonical" href="">
-    <link href="/favicon.png" rel="shortcut icon">
-    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    
-    
-
-</head>
-
-<body>
-	<header class="inner"><h1 class="left"><a href="/">iTester/Blog</a></h1>
-<nav class="menu left"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</nav>
-<div class="right">
-	<form class="search right" action="http://google.com/search" method="get">
-		<input class="left" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:iTester.github.com">
-	</form>
-	<div class="social right">
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-	</div>
-</div>
-</header>
-	
-	<div id="content" class="inner">
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/30/kindle-touch/">Kindle Touch</a></h1>
-    <div class="entry">
-        <p>﻿&#8212;
+  
+  <entry>
+    <title type="html"><![CDATA[Kindle Touch]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/kindle-touch/"/>
+    <updated>2012-03-30T00:00:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/kindle-touch</id>
+    <content type="html"><![CDATA[<p>﻿&#8212;
 layout: post
 title: &#8220;Kindle Touch&#8221;
 date: 2012-03-30 21:37
@@ -120,36 +82,15 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 <li>多看论坛上的<a href="http://bbs.duokan.com/forum/thread-49182-1-1.html">触摸屏技术介绍</a>介绍了Kindle Touch的成像原理。</li>
 </ul>
 
-
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-30T00:00:00+08:00" pubdate data-updated="true">Mar 30<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/30/hello-world/">Hello World</a></h1>
-    <div class="entry">
-        <p>﻿&#8212;
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/hello-world/"/>
+    <updated>2012-03-30T00:00:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/hello-world</id>
+    <content type="html"><![CDATA[<p>﻿&#8212;
 layout: post
 title: &#8220;Hello World&#8221;
 date: 2012-03-30 22:00
@@ -170,55 +111,7 @@ comments: true</p>
 
 
 <p>好像是惯例了，稍后我会放上一篇搭建Blog的博文上来，不会比大神们写得好，好多地方我也在摸索中，但是好在是一篇经验文。</p>
-
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-30T00:00:00+08:00" pubdate data-updated="true">Mar 30<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-</div>
-        
-    </div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-    <a href="/blog/archives" class="center">Blog Archives</a>
-</nav></div>
-	<footer class="inner">Copyright &copy; 2012 iTester/Blog</footer>
-	<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script src="/javascripts/slash.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'arthur';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-</body>
-</html>
+</feed>
