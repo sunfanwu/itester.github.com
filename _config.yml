@@ -1,10 +1,10 @@
-# ----------------------- #
+ï»¿# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
-url: http://itester.com
+url: http://iTester.github.com
 title: iTester/Blog
-subtitle: ¹Ø×¢Ò»ÇÐÓë²âÊÔÓÐ¹ØµÄ
+subtitle: 
 author: Arthur Feng
 simple_search: http://google.com/search
 description:
@@ -85,11 +85,11 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user: Arthur
+delicious_user: Arthur623
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: arthur
+disqus_short_name: arthur623
 disqus_show_comment_count: ture
 
 # Google Analytics
