@@ -1,60 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>iTester/Blog</title>
-    <meta name="author" content="Arthur Feng">
-
+  <title><![CDATA[Category: life | iTester/Blog]]></title>
+  <link href="http://iTester.github.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://iTester.github.com/"/>
+  <updated>2012-04-01T22:35:27+08:00</updated>
+  <id>http://iTester.github.com/</id>
+  <author>
+    <name><![CDATA[Arthur Feng]]></name>
     
-    <meta name="description" content="Hello World ĞÂµÄ¿ªÊ¼£¬×ÔÈ»ÊÇ Hello World
-ÕÛÌÚÁË½üÒ»ÖÜ£¬ÎÒµÄGithub PageµÄ±¾µØ»·¾³ÖÕÓÚÅäÖÃºÃÁË¡£ËÑÁËĞí¶à´óÉñµÄ½Ì³Ì£¬Ò²²Î¿¼ÁËºÜ¶àÎÄµµ£¬×îºó·¢ÏÖ»¹ÊÇ¹Ù·½µÄÎÄµµ¿´ÆğÀ´×î¼òµ¥¡£
-ÖÁÓÚÎÒÎªÊ²Ã´ÒªÕÛÌÚBlog£¬Ö÷ÒªÓĞ¼¸¸öÔ­Òò£º &hellip;">
-    
-    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-    <link href="/atom.xml" rel="alternate" title="iTester/Blog" type="application/atom+xml">
-    <link rel="canonical" href="">
-    <link href="/favicon.png" rel="shortcut icon">
-    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    
-    
-
-</head>
-
-<body>
-	<header class="inner"><h1 class="left"><a href="/">iTester/Blog</a></h1>
-<nav class="menu left"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</nav>
-<div class="right">
-	<form class="search right" action="http://google.com/search" method="get">
-		<input class="left" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:iTester.github.com">
-	</form>
-	<div class="social right">
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-	</div>
-</div>
-</header>
-	
-	<div id="content" class="inner">
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/30/hello-world/">Hello World</a></h1>
-    <div class="entry">
-        <p>ĞÂµÄ¿ªÊ¼£¬×ÔÈ»ÊÇ <strong>Hello World</strong>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/hello-world/"/>
+    <updated>2012-03-30T22:00:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/hello-world</id>
+    <content type="html"><![CDATA[<p>ĞÂµÄ¿ªÊ¼£¬×ÔÈ»ÊÇ <strong>Hello World</strong>
 ÕÛÌÚÁË½üÒ»ÖÜ£¬ÎÒµÄGithub PageµÄ±¾µØ»·¾³ÖÕÓÚÅäÖÃºÃÁË¡£ËÑÁËĞí¶à´óÉñµÄ½Ì³Ì£¬Ò²²Î¿¼ÁËºÜ¶àÎÄµµ£¬×îºó·¢ÏÖ»¹ÊÇ¹Ù·½µÄÎÄµµ¿´ÆğÀ´×î¼òµ¥¡£
 ÖÁÓÚÎÒÎªÊ²Ã´ÒªÕÛÌÚBlog£¬Ö÷ÒªÓĞ¼¸¸öÔ­Òò£º</p>
 
@@ -67,42 +31,15 @@
 
 
 <p>ºÃÏñÊÇ¹ßÀıÁË£¬ÉÔºóÎÒ»á·ÅÉÏÒ»Æª´î½¨BlogµÄ²©ÎÄÉÏÀ´£¬²»»á±È´óÉñÃÇĞ´µÃºÃ£¬ºÃ¶àµØ·½ÎÒÒ²ÔÚÃşË÷ÖĞ£¬µ«ÊÇºÃÔÚÊÇÒ»Æª¾­ÑéÎÄ¡£</p>
-
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-30T22:00:00+08:00" pubdate data-updated="true">Mar 30<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-<div class="cat">
-  
-    <a class='category' href='/blog/categories/life/'>life</a>
-  
-</div>
-
-</div>
-        
-    </div>
-</article>
-
-
-    <article class="post">
-    <h1 class="title"><a href="/blog/2012/03/30/kindle-touch/">Kindle Touch</a></h1>
-    <div class="entry">
-        <p>ĞÂÈëÊÖÁËÒ»Ì¨Kindle Touch£¬Õâ¼¸Ìì°®²»ÊÍÊÖ£¬ÓĞµãÃ÷°×ÎªÊ²Ã´ÔÚiPadµÄ´ò»÷ÏÂ£¬KindleÏµÁĞ¿ÉÒÔ»ñµÃ×Ô¼ºµÄÒ»Æ¬ÌìµØÁË¡£
+  <entry>
+    <title type="html"><![CDATA[Kindle Touch]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/kindle-touch/"/>
+    <updated>2012-03-30T21:37:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/kindle-touch</id>
+    <content type="html"><![CDATA[<p>ĞÂÈëÊÖÁËÒ»Ì¨Kindle Touch£¬Õâ¼¸Ìì°®²»ÊÍÊÖ£¬ÓĞµãÃ÷°×ÎªÊ²Ã´ÔÚiPadµÄ´ò»÷ÏÂ£¬KindleÏµÁĞ¿ÉÒÔ»ñµÃ×Ô¼ºµÄÒ»Æ¬ÌìµØÁË¡£
 Kindle×¨×¢ÓÚÔÄ¶ÁµÄ¶¨Î»£¬ÒÑ¾­E-inkµÄÔÄ¶ÁÌåÑéÊ¹ËüÓµÓĞ×Ô¼ºµÄÒ»ÅúÖÒÊµ´ØÓµ¡£Ò²Ôø°ÑÍæ¹ıÅóÓÑµÄKindle Fire£¬µ«ÊÇÊ¼ÖÕÕÒ²»µ½ÄÃÆğÀ´ÔÄ¶ÁµÄ³å¶¯¡£Ò²Ğí¿ÉÒÔ¹éÓÚÎÒÊÇÒ»¸öÄÍ²»×¡¼ÅÄ¯µÄÈË£¬ÔÚÓÖÒ»¸ö¶àÃ½Ìå²¥·ÅÆ÷+WifiµÄ»·¾³ÏÂ£¬ÎÒ»á²»×Ô¾õµÄ³ÁÃÔÓÚÉùÉ«Ö®ÖĞ¡£
 ÏÂÃæ¾ÍÀ´½éÉÜÒ»ÏÂÎÒÄÃµ½KindleÖ®ºóµÄÒ»Ğ©ĞĞ¶¯¡£</p>
 
@@ -158,61 +95,7 @@ Kindle×¨×¢ÓÚÔÄ¶ÁµÄ¶¨Î»£¬ÒÑ¾­E-inkµÄÔÄ¶ÁÌåÑéÊ¹ËüÓµÓĞ×Ô¼ºµÄÒ»ÅúÖÒÊµ´ØÓµ¡£Ò²Ôø°ÑÍæ¹
 <li>¶à¿´ÂÛÌ³ÉÏµÄ<a href="http://bbs.duokan.com/forum/thread-49182-1-1.html">´¥ÃşÆÁ¼¼Êõ½éÉÜ</a>½éÉÜÁËKindle TouchµÄ³ÉÏñÔ­Àí¡£</li>
 </ul>
 
-
-        
-        
-    </div>
-    <div class="meta">
-        <div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2012-03-30T21:37:00+08:00" pubdate data-updated="true">Mar 30<span>th</span>, 2012</time></div>
-        <div class="tags">
-
-<div class="cat">
-  
-    <a class='category' href='/blog/categories/life/'>life</a>
-  
-</div>
-
-</div>
-        
-    </div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-    <a href="/blog/archives" class="center">Blog Archives</a>
-</nav></div>
-	<footer class="inner">Copyright &copy; 2012 iTester/Blog</footer>
-	<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script src="/javascripts/slash.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'arthur623';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-</body>
-</html>
+</feed>

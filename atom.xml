@@ -4,7 +4,7 @@
   <title><![CDATA[iTester/Blog]]></title>
   <link href="http://iTester.github.com/atom.xml" rel="self"/>
   <link href="http://iTester.github.com/"/>
-  <updated>2012-03-30T23:30:22+08:00</updated>
+  <updated>2012-04-01T22:35:27+08:00</updated>
   <id>http://iTester.github.com/</id>
   <author>
     <name><![CDATA[Arthur Feng]]></name>
@@ -14,103 +14,87 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Kindle Touch]]></title>
-    <link href="http://iTester.github.com/blog/2012/03/30/kindle-touch/"/>
-    <updated>2012-03-30T00:00:00+08:00</updated>
-    <id>http://iTester.github.com/blog/2012/03/30/kindle-touch</id>
-    <content type="html"><![CDATA[<p>﻿&#8212;
-layout: post
-title: &#8220;Kindle Touch&#8221;
-date: 2012-03-30 21:37
-comments: true</p>
-
-<h2>categories: life</h2>
-
-<p>新入手了一台Kindle Touch，这几天爱不释手，有点明白为什么在iPad的打击下，Kindle系列可以获得自己的一片天地了。
-Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的一批忠实簇拥。也曾把玩过朋友的Kindle Fire，但是始终找不到拿起来阅读的冲动。也许可以归于我是一个耐不住寂寞的人，在又一个多媒体播放器+Wifi的环境下，我会不自觉的沉迷于声色之中。
-下面就来介绍一下我拿到Kindle之后的一些行动。</p>
-
-<h2>注册</h2>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/hello-world/"/>
+    <updated>2012-03-30T22:00:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/hello-world</id>
+    <content type="html"><![CDATA[<p>�µĿ�ʼ����Ȼ�� <strong>Hello World</strong>
+�����˽�һ�ܣ��ҵ�Github Page�ı��ػ����������ú��ˡ������������Ľ̳̣�Ҳ�ο��˺ܶ��ĵ�������ֻ��ǹٷ����ĵ���������򵥡�
+������ΪʲôҪ����Blog����Ҫ�м���ԭ��</p>
 
 <ul>
-<li><p>在Amazon上注册一个账户，这个不需多言。SN码可以在Kindle上Home键->Menu->setting->menu->Device Info中找到。并不需要其他的信息。</p></li>
-<li><p>当你的Kindle Touch下次连接到Wifi时，会自动关联账户并注册你的设备。</p></li>
+<li><p>��ʵ��������뷨������һֱû��ʵ�ֶ��ѡ������ڹ�˾�Ĺ��������ȶ�������ҲԽ��Խ���ݣ��Ҿ����б�Ҫ��һ�ַ������޲��Լ�ʱʱ�̵̿�ѧϰ��</p></li>
+<li><p>������PKM���������ռ�Ϊ����GoogleCanlender�ϻ�ר�����������ѣ�Ҳ�޼����£������Ŀ���GoogleReader���Stared����Ŀ��࣬�Ҿ�����ʱ������һ���ˡ�����KindleTouch�ոյ���������������������˿����Ķ�Stared��Ŀ�ĸ���ƽ̨�����ǵ������￴���Ļ��ˣ�ֻ����������֪ʶ������ġ�</p></li>
+<li><p><a href="http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/">����������ʱ��ȥ����һ����</a>Ҳ��ԭ��֮һ��Զ�Ĳ��ᣬ<a href="http://www.syncoo.com/">ͬ����</a>�����߾�ͨ��һ��blog��Ϊ�Լ��͹���֮�������һ��ƽ̨,����XDashҲ����<a href="http://www.fanbing.net/my-4-years-in-jnu.html">����</a>���ᵽ����һ��</p></li>
+<li><p><a href="http://beiyuu.com">��Щ�ÿ���Blog</a>����Ҳ�������ҵĵط�֮һ��</p></li>
 </ul>
 
 
-<h2>升级</h2>
-
-<ul>
-<li>拿到Kindle并注册，在有Wifi的环境下，我的Kindle Touch自动升级了。升级结束后会自动重启，速度很快。静默升级。</li>
-</ul>
-
-
-<h2>越狱</h2>
-
-<ul>
-<li><p>新的Kindle Touch虽然原生支持中文，但是那种宽窄不一的字体，真的会打击人的阅读积极性，更遑论阅读的乐趣。所以越狱就变成了拿到Kindle之后第二件要做的事情。</p></li>
-<li><p>越狱的具体步骤可以参阅<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">一键快速越狱并且更换你的 Kindle Touch 字体</a> Kindle Touch 5.0.4和5.0.3的越狱方法是一样的。按照说明使用越狱包之后，就已经为你替换了雅黑字体。</p></li>
-<li><p>如想使用其他字体，可以参照<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">一键快速越狱并且更换你的 Kindle Touch 字体</a> 。这里提供一种我认为比较好的字体<a href="http://bbs.mydoo.cn/thread-25329-1-1.html">XHei</a>。</p></li>
-</ul>
-
-
-<h2>推送</h2>
-
-<ul>
-<li><p>推送可以看成是阅读的一种延伸。有人会说在电脑上快速浏览新闻就好。对于时效性比较强的新闻，确实直接在Web上阅读就好，但是一些有价值，值得自习阅读的博文，我更推荐推送到Kindle上来细细品读。例如<a href="http://xianguo.com/service/dailyshare">每日鲜果推荐</a>的精选文章以及像是<a href="http://www.williamlong.info/">月关博客</a>这样的思想性较强的Blog。推送的原理是发送邮件到你的Amazon Kindle邮箱(你的注册邮箱@kindle.com或free.kindle.com）PS：@iduokan.com是为多看系统准备的接口，虽然多看暂时还不支持Kindle Touch，但是开发已经在<a href="http://bbs.duokan.com/forum/viewthread.php?tid=57650&amp;extra=page%3D1%26amp%3Bfilter%3Dtype%26amp%3Btypeid%3D54">进展中</a></p></li>
-<li><p>推送推荐一：Chrome的插件<a href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan">Send to Kindle</a> 安装之后就可以在想精读的博文上点击扩展的图标，发送到Kindle。需要注意的是按照扩展提示在<a href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan">Amazon的账户设置</a>找到Your Kindle approved e-mail list (你的Kindle接收邮件名单)，添加 kindle@klip.me 到邮件地址中才能完成推送。</p></li>
-<li><p>推送推荐二：<a href="http://ikindle.mobi/">iKindle</a>提供了很多优秀的订阅源。挑选喜欢的，点击订阅即可，同样需要添加对应你账号的邮箱地址到你的Kindle接收邮件名单。</p></li>
-<li><p>推送推荐三：<a href="http://read.douban.com/store/">豆瓣阅读</a>，点击在Kindle上阅读，选择6寸，填入你的amazon订阅地址。等待完成审核并按提示完成后续操作。</p></li>
-</ul>
-
-
-<h2>资源</h2>
-
-<ul>
-<li><p><a href="https://www.dropbox.com/s/b44t0swhzsdlaof">Dropbox共享文件夹</a>,适合像我一样使用<a href="http://www.dropbox.com">Dropbox</a>服务的人,当然，你也可以直接用网页进入共享文件夹下载。Dropbox的服务国内不是很稳定，请自带翻墙板凳。进入这个共享文件夹，中文资料除新闻之外的几乎不必再去其它地方了。非常感谢作者的辛勤共享劳动！</p></li>
-<li><p><a href="http://ikindle.mobi/book/">iKindle</a>,专为Kindle服务，资源极其丰富。</p></li>
-<li><p><a href="http://book.zi5.me/">子乌书简</a>,利用Calibre+dropbox+php搭建的在线书库，资源比较丰富。</p></li>
-<li><p><a href="http://shucang.com/">书仓网</a>,图书资源丰富，可直接下载pdf, mobi, epub等格式。</p></li>
-<li><p><a href="http://www.coay.com/index.php">COAY</a>,提供ePub、mobi格式电子书下载。支持iBooks，Kindle，Stanza等阅读器。</p></li>
-<li><p><a href="http://kindle.youliao.org/">Kindle专用搜索工具</a>，搜索网络上适合Kindle的mobi，6寸PDF及其他资源。</p></li>
-</ul>
-
-
-<h2>还想了解更多</h2>
-
-<ul>
-<li>多看论坛上的<a href="http://bbs.duokan.com/forum/thread-49182-1-1.html">触摸屏技术介绍</a>介绍了Kindle Touch的成像原理。</li>
-</ul>
-
+<p>�����ǹ����ˣ��Ժ��һ����һƪ�Blog�Ĳ�������������ȴ�����д�úã��ö�ط���Ҳ�������У����Ǻ�����һƪ�����ġ�</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://iTester.github.com/blog/2012/03/30/hello-world/"/>
-    <updated>2012-03-30T00:00:00+08:00</updated>
-    <id>http://iTester.github.com/blog/2012/03/30/hello-world</id>
-    <content type="html"><![CDATA[<p>﻿&#8212;
-layout: post
-title: &#8220;Hello World&#8221;
-date: 2012-03-30 22:00
-comments: true</p>
+    <title type="html"><![CDATA[Kindle Touch]]></title>
+    <link href="http://iTester.github.com/blog/2012/03/30/kindle-touch/"/>
+    <updated>2012-03-30T21:37:00+08:00</updated>
+    <id>http://iTester.github.com/blog/2012/03/30/kindle-touch</id>
+    <content type="html"><![CDATA[<p>��������һ̨Kindle Touch���⼸�찮�����֣��е�����Ϊʲô��iPad�Ĵ���£�Kindleϵ�п��Ի���Լ���һƬ����ˡ�
+Kindleרע���Ķ��Ķ�λ���Ѿ�E-ink���Ķ�����ʹ��ӵ���Լ���һ����ʵ��ӵ��Ҳ����������ѵ�Kindle Fire������ʼ���Ҳ����������Ķ��ĳ嶯��Ҳ�����Թ�������һ���Ͳ�ס��į���ˣ�����һ����ý�岥����+Wifi�Ļ����£��һ᲻�Ծ��ĳ�������ɫ֮�С�
+�����������һ�����õ�Kindle֮���һЩ�ж���</p>
 
-<h2>categories: life</h2>
-
-<p>新的开始，自然是 <strong>Hello World</strong>
-折腾了近一周，我的Github Page的本地环境终于配置好了。搜了许多大神的教程，也参考了很多文档，最后发现还是官方的文档看起来最简单。
-至于我为什么要折腾Blog，主要有几个原因：</p>
+<h2>ע��</h2>
 
 <ul>
-<li><p>其实早有这个想法，但是一直没有实现而已。进来在公司的工作趋于稳定，生活也越来越安逸，我觉得有必要找一种方法来鞭策自己时时刻刻的学习。</p></li>
-<li><p>近来的PKM又趋于已收集为主，GoogleCanlender上还专门设置了提醒，也无济于事，慢慢的看着GoogleReader里的Stared的条目变多，我觉得是时候整理一下了。正好KindleTouch刚刚到货。在新奇过后，我又有了可以阅读Stared条目的更好平台。不记得在哪里看到的话了，只有整理过后，知识才是你的。</p></li>
-<li><p><a href="http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/">怎样花两年时间去面试一个人</a>也是原因之一。远的不提，<a href="http://www.syncoo.com/">同步控</a>的作者就通过一个blog，为自己和工作之间架起了一座平台,博主XDash也曾在<a href="http://www.fanbing.net/my-4-years-in-jnu.html">博文</a>中提到过这一点</p></li>
-<li><p><a href="http://beiyuu.com">那些好看的Blog</a>本身也是吸引我的地方之一。</p></li>
+<li><p>��Amazon��ע��һ���˻������������ԡ�SN�������Kindle��Home��->Menu->setting->menu->Device Info���ҵ���������Ҫ��������Ϣ��</p></li>
+<li><p>�����Kindle Touch�´����ӵ�Wifiʱ�����Զ������˻���ע������豸��</p></li>
 </ul>
 
 
-<p>好像是惯例了，稍后我会放上一篇搭建Blog的博文上来，不会比大神们写得好，好多地方我也在摸索中，但是好在是一篇经验文。</p>
+<h2>����</h2>
+
+<ul>
+<li>�õ�Kindle��ע�ᣬ����Wifi�Ļ����£��ҵ�Kindle Touch�Զ������ˡ�������������Զ��������ٶȺܿ졣��Ĭ������</li>
+</ul>
+
+
+<h2>Խ��</h2>
+
+<ul>
+<li><p>�µ�Kindle Touch��Ȼԭ��֧�����ģ��������ֿ�խ��һ�����壬��Ļ����˵��Ķ������ԣ��������Ķ�����Ȥ������Խ���ͱ�����õ�Kindle֮��ڶ���Ҫ�������顣</p></li>
+<li><p>Խ���ľ��岽����Բ���<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">һ������Խ�����Ҹ������ Kindle Touch ����</a> Kindle Touch 5.0.4��5.0.3��Խ��������һ���ġ�����˵��ʹ��Խ����֮�󣬾��Ѿ�Ϊ���滻���ź����塣</p></li>
+<li><p>����ʹ���������壬���Բ���<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">һ������Խ�����Ҹ������ Kindle Touch ����</a> �������ṩһ������Ϊ�ȽϺõ�����<a href="http://bbs.mydoo.cn/thread-25329-1-1.html">XHei</a>��</p></li>
+</ul>
+
+
+<h2>����</h2>
+
+<ul>
+<li><p>���Ϳ��Կ������Ķ���һ�����졣���˻�˵�ڵ����Ͽ���������žͺá�����ʱЧ�ԱȽ�ǿ�����ţ�ȷʵֱ����Web���Ķ��ͺã�����һЩ�м�ֵ��ֵ����ϰ�Ķ��Ĳ��ģ��Ҹ��Ƽ����͵�Kindle����ϸϸƷ��������<a href="http://xianguo.com/service/dailyshare">ÿ���ʹ��Ƽ�</a>�ľ�ѡ�����Լ�����<a href="http://www.williamlong.info/">�¹ز���</a>������˼���Խ�ǿ��Blog�����͵�ԭ���Ƿ����ʼ������Amazon Kindle����(���ע������@kindle.com��free.kindle.com��PS��@iduokan.com��Ϊ�࿴ϵͳ׼���Ľӿڣ���Ȼ�࿴��ʱ����֧��Kindle Touch�����ǿ����Ѿ���<a href="http://bbs.duokan.com/forum/viewthread.php?tid=57650&amp;extra=page%3D1%26amp%3Bfilter%3Dtype%26amp%3Btypeid%3D54">��չ��</a></p></li>
+<li><p>�����Ƽ�һ��Chrome�Ĳ��<a href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan">Send to Kindle</a> ��װ֮��Ϳ������뾫���Ĳ����ϵ����չ��ͼ�꣬���͵�Kindle����Ҫע����ǰ�����չ��ʾ��<a href="https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan">Amazon���˻�����</a>�ҵ�Your Kindle approved e-mail list (���Kindle�����ʼ�����)������ kindle@klip.me ���ʼ���ַ�в���������͡�</p></li>
+<li><p>�����Ƽ�����<a href="http://ikindle.mobi/">iKindle</a>�ṩ�˺ܶ�����Ķ���Դ����ѡϲ���ģ�������ļ��ɣ�ͬ����Ҫ���Ӷ�Ӧ���˺ŵ������ַ�����Kindle�����ʼ�������</p></li>
+<li><p>�����Ƽ�����<a href="http://read.douban.com/store/">�����Ķ�</a>�������Kindle���Ķ���ѡ��6�磬�������amazon���ĵ�ַ���ȴ������˲�����ʾ��ɺ���������</p></li>
+</ul>
+
+
+<h2>��Դ</h2>
+
+<ul>
+<li><p><a href="https://www.dropbox.com/s/b44t0swhzsdlaof">Dropbox�����ļ���</a>,�ʺ�����һ��ʹ��<a href="http://www.dropbox.com">Dropbox</a>�������,��Ȼ����Ҳ����ֱ������ҳ���빲���ļ������ء�Dropbox�ķ�����ڲ��Ǻ��ȶ������Դ���ǽ��ʡ�������������ļ��У��������ϳ�����֮��ļ���������ȥ�����ط��ˡ��ǳ���л���ߵ����ڹ����Ͷ���</p></li>
+<li><p><a href="http://ikindle.mobi/book/">iKindle</a>,רΪKindle������Դ����ḻ��</p></li>
+<li><p><a href="http://book.zi5.me/">�������</a>,����Calibre+dropbox+php���������⣬��Դ�ȽϷḻ��</p></li>
+<li><p><a href="http://shucang.com/">�����</a>,ͼ����Դ�ḻ����ֱ������pdf, mobi, epub�ȸ�ʽ��</p></li>
+<li><p><a href="http://www.coay.com/index.php">COAY</a>,�ṩePub��mobi��ʽ���������ء�֧��iBooks��Kindle��Stanza���Ķ�����</p></li>
+<li><p><a href="http://kindle.youliao.org/">Kindleר����������</a>�������������ʺ�Kindle��mobi��6��PDF��������Դ��</p></li>
+</ul>
+
+
+<h2>�����˽����</h2>
+
+<ul>
+<li>�࿴��̳�ϵ�<a href="http://bbs.duokan.com/forum/thread-49182-1-1.html">��������������</a>������Kindle Touch�ĳ���ԭ����</li>
+</ul>
+
 ]]></content>
   </entry>
   
