@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://iTester.github.com/blog/2012/03/30/kindle-touch/</loc>
+        <loc>http://iTester.github.com/blog/kindle-touch/</loc>
         <lastmod>2012-04-03T00:57:55+08:00</lastmod>
     </url>
     <url>
-        <loc>http://iTester.github.com/blog/2012/03/30/hello-world/</loc>
+        <loc>http://iTester.github.com/blog/hello-world/</loc>
         <lastmod>2012-04-03T00:57:55+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iTester.github.com/404.html</loc>
+        <lastmod>2012-04-07T16:42:49+08:00</lastmod>
     </url>
     <url>
         <loc>http://iTester.github.com/about/</loc>
