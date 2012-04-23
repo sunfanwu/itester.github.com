@@ -4,7 +4,7 @@
   <title><![CDATA[Category: life | iTester/Blog]]></title>
   <link href="http://iTester.github.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://iTester.github.com/"/>
-  <updated>2012-04-07T20:16:41+08:00</updated>
+  <updated>2012-04-23T19:17:10+08:00</updated>
   <id>http://iTester.github.com/</id>
   <author>
     <name><![CDATA[Arthur Feng]]></name>
@@ -18,7 +18,15 @@
     <link href="http://iTester.github.com/blog/hello-world/"/>
     <updated>2012-03-30T22:00:00+08:00</updated>
     <id>http://iTester.github.com/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>新的开始，自然是 <strong>Hello World</strong>
+    <content type="html"><![CDATA[<p>History:</p>
+
+<ul>
+<li>Version.1 成文 2012-03-30</li>
+<li>Version.2 测试图片、视频、代码行为</li>
+</ul>
+
+
+<p>新的开始，自然是 <strong>Hello World</strong>
 折腾了近一周，我的Github Page的本地环境终于配置好了。搜了许多大神的教程，也参考了很多文档，最后发现还是官方的文档看起来最简单。
 至于我为什么要折腾Blog，主要有几个原因：</p>
 
@@ -31,6 +39,17 @@
 
 
 <p>好像是惯例了，稍后我会放上一篇搭建Blog的博文上来，不会比大神们写得好，好多地方我也在摸索中，但是好在是一篇经验文。</p>
+
+<h2>以下为测试</h2>
+
+<p><img scr=https://lh4.googleusercontent.com/-LiCi8Xy4mww/Tx-TQFAwmUI/AAAAAAAAEnk/fAJUPwhApR4/s0/wallpaper-1384450.jpg></img></p>
+
+<div class="video-container">
+    http://www.tudou.com/v/byq4nz069og/&resourceId=0_04_05_99/v.swf
+</div>
+
+
+<p><code>def asd</code></p>
 ]]></content>
   </entry>
   
