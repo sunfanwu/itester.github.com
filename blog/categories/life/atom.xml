@@ -4,7 +4,7 @@
   <title><![CDATA[Category: life | iTester/Blog]]></title>
   <link href="http://iTester.github.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://iTester.github.com/"/>
-  <updated>2012-05-03T23:18:08+08:00</updated>
+  <updated>2012-05-13T13:02:34+08:00</updated>
   <id>http://iTester.github.com/</id>
   <author>
     <name><![CDATA[Arthur Feng]]></name>
@@ -18,15 +18,11 @@
     <link href="http://iTester.github.com/blog/blad-and-what/"/>
     <updated>2012-05-03T22:55:00+08:00</updated>
     <id>http://iTester.github.com/blog/blad-and-what</id>
-    <content type="html"><![CDATA[<p>History:</p>
-
-<p>-Version.1 成文 2012-05-03</p>
-
-<h2>我要剃光头</h2>
+    <content type="html"><![CDATA[<h2>我要剃光头</h2>
 
 <p>你不要看到这个标题就乱猜，这不是郭德纲的一个段子。</p>
 
-<p>这两天坊间一直流传着武汉要地震的说法，岁然地震局出来澄清说铺天盖地的蛤蟆爬上街是正常生物现象，但是没人信啊。你个地震局的怎么也开始懂生物学了。专家这次倒是没有出来辟谣，估计他们也知道自己的公信力已经到了负值。
+<p>这两天坊间一直流传着武汉要地震的说法，虽然地震局出来澄清说铺天盖地的蛤蟆爬上街是正常生物现象，但是没人信啊。你个地震局的怎么也开始懂生物学了。专家这次倒是没有出来辟谣，估计他们也知道自己的公信力已经到了负值。
 趁此机会，果断和几个妹子<em>避难+出游</em>才是正理！</p>
 
 <p>出行准备总是很麻烦。尤其是夏天。考虑到取得地方也是南京这样著名的火炉，防晒油+清爽的造型总是免不了的。</p>
@@ -46,6 +42,13 @@
 <p>于是，一个光头新鲜出炉了。理发师不说话了。这个世界清净了。</p>
 
 <p>洗头，无奈遭到小妹的调戏。小妹问，要吹干嘛.....吹你妹啊，老子已经干了.....</p>
+
+<h2>History:</h2>
+
+<ul>
+<li>Version.1 成文 2012-05-03</li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -54,15 +57,7 @@
     <link href="http://iTester.github.com/blog/hello-world/"/>
     <updated>2012-03-30T22:00:00+08:00</updated>
     <id>http://iTester.github.com/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>History:</p>
-
-<ul>
-<li>Version.1 成文 2012-03-30</li>
-<li>Version.2 测试图片、视频、代码行为</li>
-</ul>
-
-
-<p>新的开始，自然是 <strong>Hello World</strong>
+    <content type="html"><![CDATA[<p>新的开始，自然是 <strong>Hello World</strong>
 折腾了近一周，我的Github Page的本地环境终于配置好了。搜了许多大神的教程，也参考了很多文档，最后发现还是官方的文档看起来最简单。
 至于我为什么要折腾Blog，主要有几个原因：</p>
 
@@ -77,6 +72,14 @@
 <p>好像是惯例了，稍后我会放上一篇搭建Blog的博文上来，不会比大神们写得好，好多地方我也在摸索中，但是好在是一篇经验文。</p>
 
 <h2>以下为测试</h2>
+
+<h2>History:</h2>
+
+<ul>
+<li>Version.1 成文 2012-03-30</li>
+<li>Version.2 测试图片、视频、代码行为</li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -88,6 +91,46 @@
     <content type="html"><![CDATA[<p>新入手了一台Kindle Touch，这几天爱不释手，有点明白为什么在iPad的打击下，Kindle系列可以获得自己的一片天地了。
 Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的一批忠实簇拥。也曾把玩过朋友的Kindle Fire，但是始终找不到拿起来阅读的冲动。也许可以归于我是一个耐不住寂寞的人，在又一个多媒体播放器+Wifi的环境下，我会不自觉的沉迷于声色之中。
 下面就来介绍一下我拿到Kindle之后的一些行动。</p>
+
+<h1>Duokan系统</h1>
+
+<h2>介绍</h2>
+
+<p><embed src="http://www.tudou.com/v/fnVqI0Xuems/&resourceId=0_05_02_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed></p>
+
+<h2>安装Duokan</h2>
+
+<p>多看系统的安装十分简单,安装包里有详细的安装指南，这里指写出我安装时步骤。</p>
+
+<ul>
+<li><p><a href="http://bbs.duokan.com/forum/thread-63811-1-1.html">下载安装包</a></p></li>
+<li><p>把Kindle连接到电脑，把安装包解压出的文件Copy到kindle的根目录下</p></li>
+<li><p>重启kindle</p></li>
+<li><p>在调试模式下，一次点击D-D-Q，点击完成后不要做任何操作，等待即可</p></li>
+<li><p>进入Duokan for Kindle</p></li>
+</ul>
+
+
+<h2>自定义字体</h2>
+
+<p>Duokan系统支持自定义字体，把你想用的字体Copy到DK_System\xKindle\res\userFonts下即可</p>
+
+<ul>
+<li><a href="http://bbs.duokan.com/forum/viewthread.php?tid=60356&amp;highlight=%E5%AD%97%E4%BD%93">字体推荐贴</a></li>
+</ul>
+
+
+<h2>自定义屏保</h2>
+
+<p>因为我买的是广告版的KindleTouch，虽然说亚马逊的广告都不是很难看，但是广告就是广告，会让人心里不爽。现在换了Duokan，就可以自定义一些屏保图片了。</p>
+
+<ul>
+<li><p>作为屏保的图片必须是600*800的黑白图片。</p></li>
+<li><p>如果你不想自己做，也可以来这里<a href="http://bbs.duokan.com/forum/viewthread.php?tid=62981&amp;highlight=%E5%B1%8F%E4%BF%9D">下载</a></p></li>
+</ul>
+
+
+<h1>Kindle原生系统</h1>
 
 <h2>注册</h2>
 
@@ -107,7 +150,7 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 <h2>越狱</h2>
 
 <ul>
-<li><p>新的Kindle Touch虽然原生支持中文，但是那种宽窄不一的字体，真的会打击人的阅读积极性，更遑论阅读的乐趣。所以越狱就变成了拿到Kindle之后第二件要做的事情。</p></li>
+<li><p>新的KindleTouch虽然原生支持中文，但是那种宽窄不一的字体，真的会打击人的阅读积极性，更遑论阅读的乐趣。所以越狱就变成了拿到Kindle之后第二件要做的事情。</p></li>
 <li><p>越狱的具体步骤可以参阅<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">一键快速越狱并且更换你的 Kindle Touch 字体</a> Kindle Touch 5.0.4和5.0.3的越狱方法是一样的。按照说明使用越狱包之后，就已经为你替换了雅黑字体。</p></li>
 <li><p>如想使用其他字体，可以参照<a href="http://leeiio.me/one-step-change-your-kindle-touch-fonts/">一键快速越狱并且更换你的 Kindle Touch 字体</a> 。这里提供一种我认为比较好的字体<a href="http://bbs.mydoo.cn/thread-25329-1-1.html">XHei</a>。</p></li>
 </ul>
@@ -123,7 +166,7 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 </ul>
 
 
-<h2>资源</h2>
+<h1>资源</h1>
 
 <ul>
 <li><p><a href="https://www.dropbox.com/s/b44t0swhzsdlaof">Dropbox共享文件夹</a>,适合像我一样使用<a href="http://www.dropbox.com">Dropbox</a>服务的人,当然，你也可以直接用网页进入共享文件夹下载。Dropbox的服务国内不是很稳定，请自带翻墙板凳。进入这个共享文件夹，中文资料除新闻之外的几乎不必再去其它地方了。非常感谢作者的辛勤共享劳动！</p></li>
@@ -139,6 +182,14 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 
 <ul>
 <li>多看论坛上的<a href="http://bbs.duokan.com/forum/thread-49182-1-1.html">触摸屏技术介绍</a>介绍了Kindle Touch的成像原理。</li>
+</ul>
+
+
+<h2>History:</h2>
+
+<ul>
+<li>Version.1 成文 2012-03-30</li>
+<li>Version.2 更新Duokan系统部分</li>
 </ul>
 
 ]]></content>
