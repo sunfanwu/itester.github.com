@@ -2,11 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://iTester.github.com/blog/kindle-touch/</loc>
-        <lastmod>2012-04-03T00:57:55+08:00</lastmod>
+        <lastmod>2012-05-18T20:40:41+08:00</lastmod>
     </url>
     <url>
         <loc>http://iTester.github.com/blog/hello-world/</loc>
-        <lastmod>2012-04-03T00:57:55+08:00</lastmod>
+        <lastmod>2012-05-18T20:40:41+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iTester.github.com/blog/blad-and-what/</loc>
+        <lastmod>2012-05-18T20:40:41+08:00</lastmod>
     </url>
     <url>
         <loc>http://iTester.github.com/404.html</loc>
@@ -18,10 +22,10 @@
     </url>
     <url>
         <loc>http://iTester.github.com/blog/archives/</loc>
-        <lastmod>2012-04-03T00:37:18+08:00</lastmod>
+        <lastmod>2012-05-13T13:01:37+08:00</lastmod>
     </url>
     <url>
         <loc>http://iTester.github.com/</loc>
-        <lastmod>2012-04-03T00:37:18+08:00</lastmod>
+        <lastmod>2012-05-13T13:01:37+08:00</lastmod>
     </url>
 </urlset>
