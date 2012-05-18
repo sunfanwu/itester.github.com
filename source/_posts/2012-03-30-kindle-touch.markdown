@@ -9,6 +9,39 @@ categories: life
 新入手了一台Kindle Touch，这几天爱不释手，有点明白为什么在iPad的打击下，Kindle系列可以获得自己的一片天地了。
 Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的一批忠实簇拥。也曾把玩过朋友的Kindle Fire，但是始终找不到拿起来阅读的冲动。也许可以归于我是一个耐不住寂寞的人，在又一个多媒体播放器+Wifi的环境下，我会不自觉的沉迷于声色之中。
 下面就来介绍一下我拿到Kindle之后的一些行动。
+
+#Duokan系统#
+
+##介绍##
+<embed src="http://www.tudou.com/v/fnVqI0Xuems/&resourceId=0_05_02_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed>
+
+##安装Duokan##
+多看系统的安装十分简单,安装包里有详细的安装指南，这里指写出我安装时步骤。
+
+- [下载安装包](http://bbs.duokan.com/forum/thread-63811-1-1.html)
+
+- 把Kindle连接到电脑，把安装包解压出的文件Copy到kindle的根目录下
+
+- 重启kindle
+
+- 在调试模式下，一次点击D-D-Q，点击完成后不要做任何操作，等待即可
+
+- 进入Duokan for Kindle
+
+##自定义字体##
+Duokan系统支持自定义字体，把你想用的字体Copy到DK_System\xKindle\res\userFonts下即可
+
+- [字体推荐贴](http://bbs.duokan.com/forum/viewthread.php?tid=60356&highlight=%E5%AD%97%E4%BD%93)
+
+##自定义屏保##
+因为我买的是广告版的KindleTouch，虽然说亚马逊的广告都不是很难看，但是广告就是广告，会让人心里不爽。现在换了Duokan，就可以自定义一些屏保图片了。
+
+- 作为屏保的图片必须是600*800的黑白图片。
+
+- 如果你不想自己做，也可以来这里[下载](http://bbs.duokan.com/forum/viewthread.php?tid=62981&highlight=%E5%B1%8F%E4%BF%9D)
+
+#Kindle原生系统#
+
 ##注册##
 
 - 在Amazon上注册一个账户，这个不需多言。SN码可以在Kindle上Home键->Menu->setting->menu->Device Info中找到。并不需要其他的信息。
@@ -21,7 +54,7 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 
 ##越狱##
 
-- 新的Kindle Touch虽然原生支持中文，但是那种宽窄不一的字体，真的会打击人的阅读积极性，更遑论阅读的乐趣。所以越狱就变成了拿到Kindle之后第二件要做的事情。
+- 新的KindleTouch虽然原生支持中文，但是那种宽窄不一的字体，真的会打击人的阅读积极性，更遑论阅读的乐趣。所以越狱就变成了拿到Kindle之后第二件要做的事情。
 
 - 越狱的具体步骤可以参阅[一键快速越狱并且更换你的 Kindle Touch 字体](http://leeiio.me/one-step-change-your-kindle-touch-fonts/) Kindle Touch 5.0.4和5.0.3的越狱方法是一样的。按照说明使用越狱包之后，就已经为你替换了雅黑字体。
 
@@ -37,7 +70,7 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 
 - 推送推荐三：[豆瓣阅读](http://read.douban.com/store/)，点击在Kindle上阅读，选择6寸，填入你的amazon订阅地址。等待完成审核并按提示完成后续操作。
 
-##资源##
+#资源#
 
 - [Dropbox共享文件夹](https://www.dropbox.com/s/b44t0swhzsdlaof),适合像我一样使用[Dropbox](http://www.dropbox.com)服务的人,当然，你也可以直接用网页进入共享文件夹下载。Dropbox的服务国内不是很稳定，请自带翻墙板凳。进入这个共享文件夹，中文资料除新闻之外的几乎不必再去其它地方了。非常感谢作者的辛勤共享劳动！
 
@@ -55,3 +88,8 @@ Kindle专注于阅读的定位，已经E-ink的阅读体验使它拥有自己的
 ##还想了解更多##
 
 - 多看论坛上的[触摸屏技术介绍](http://bbs.duokan.com/forum/thread-49182-1-1.html)介绍了Kindle Touch的成像原理。
+
+##History:##
+
+- Version.1 成文 2012-03-30
+- Version.2 更新Duokan系统部分
