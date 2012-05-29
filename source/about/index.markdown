@@ -13,9 +13,9 @@ footer: true
 
 ##Arthur的书单##
 
-<script type="text/javascript" src="http://www.douban.com/service/badge/Arthur623/?show=collection&amp;select=favorite&amp;n=4&amp;columns=4&amp;picsize=medium&amp;hidelogo=yes&amp;cat=book" ></script>
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="799" height="155" id="passing" > <param name="movie" value="http://www.douban.com/doushow/Arthur623/collection_latest_book_6_6_medium_nologo_noself/doushow.swf" /> <param name="quality" value="high" /> <param name="scale" value="noscale"/> <param name="align" value="tl"/> <param name="wmode" value="transparent"/> <embed src="http://www.douban.com/doushow/Arthur623/collection_latest_book_6_6_medium_nologo_noself/doushow.swf" wmode="transparent" quality="high" width="799" height="155" name="passing" scale="noscale" align="tl" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object></div>
 
-<script type="text/javascript" src="http://www.douban.com/service/badge/Arthur623/?show=dolist&amp;select=favorite&amp;n=4&amp;columns=4&amp;picsize=medium&amp;hidelogo=yes&amp;cat=book" ></script>
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="799" height="171" id="passing" > <param name="movie" value="http://www.douban.com/doushow/Arthur623/dolist_latest_book_6_6_medium_nologo_self/doushow.swf" /> <param name="quality" value="high" /> <param name="scale" value="noscale"/> <param name="align" value="tl"/> <param name="wmode" value="transparent"/> <embed src="http://www.douban.com/doushow/Arthur623/dolist_latest_book_6_6_medium_nologo_self/doushow.swf" wmode="transparent" quality="high" width="799" height="171" name="passing" scale="noscale" align="tl" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object></div>
 
 ##Arthur的户外运动记录##
 <iframe src="http://www.endomondo.com/embed/user/workouts?id=2969784&measure=0&width=680&height=400" width="680" height="400" frameborder="0" scrolling="no" ></iframe>       
