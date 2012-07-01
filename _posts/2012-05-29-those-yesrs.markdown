@@ -5,9 +5,10 @@ description: "与其说是读书笔记，不如说是对自己青春的一次回
 category: "读书笔记"
 tags: [生活, 读书笔记]
 ---
+
 #那些年
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1770577252&mode=js"></script>
+
 
 
 本来想写一篇读书笔记的。可我发现写到一半就写不下去。我无法记述我在小说中学到了什么，又懂得了什么。它只是让我想起了我的青春。  
@@ -51,4 +52,6 @@ tags: [生活, 读书笔记]
 
 生活越来越无趣，活着也变得越来越应付。  
 满Blog荒唐言，一把辛酸泪。  
+
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1770577252&mode=js"></script>
 
