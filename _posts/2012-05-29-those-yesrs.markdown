@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "those-years"
-description: "那些年，我们一起追的女孩"
+title: "那些年，我们一起追的女孩"
+description: "与其说是读书笔记，不如说是对自己青春的一次回忆"
 category: "读书笔记"
 tags: [生活, 读书笔记]
 ---
