@@ -4,7 +4,7 @@ layout: post
 title: "Hello World"
 description: "新的开始"
 category: "碎碎念"
-tags: [开始,碎碎念]
+tags: [开始, 碎碎念]
 ---
 {% include JB/setup %}
 
