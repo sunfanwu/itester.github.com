@@ -33,11 +33,11 @@ tags: [Ubuntu, 指南]
     3. 硬盘分区一共有三种：主分区，扩展分区和逻辑分区。在一块硬盘上最多只能有四个主分区。您可以另外建立一个扩展分区来代替四个主分区的其中一个，然后在扩展分区下您可以建立更多的逻辑分区。扩展分区只不过是逻辑分区的“容器”。实际上只有主分区和逻辑分区进行数据存储。一个磁盘的扩展分区只能有一个，并且只能是连续的磁盘空间。
 
 
-        Windows分区编号
+- Windows分区编号
 ![alt ](http://pic.yupoo.com/arthur623/C2oOHFcj/medish.jpg "Windows分区编号实例")
 
 
-        Linux分区编号
+- Linux分区编号
 ![alt ](http://pic.yupoo.com/arthur623/C2oOHurq/medish.jpg "Windows分区编号实例")
 
 
@@ -85,12 +85,13 @@ tags: [Ubuntu, 指南]
 
 - 如果要安装双系统，并且已经有Windows存在，可以先删掉一部分分区：
 ![alt ](http://pic.yupoo.com/arthur623/C2p4C8b8/medish.jpg "Windows加Ubuntu分区实例1")  
-安装时选择使用未使用的空间，Ubuntu就会自动创建分区如下
+- 安装时选择使用未使用的空间，Ubuntu就会自动创建分区如下
 ![alt ](http://pic.yupoo.com/arthur623/C2p4BYcH/medish.jpg "Windows加Ubuntu分区实例2")
 
 
-###引导
+###引导  
 - 系统引导过程简介  
+
 > 1. 开机；
 > 2. BIOS加电自检(POST---Power On Self Test)，内存地址为0fff：0000；
 > 3. 将硬盘第一个扇区(0头0道1扇区,也就是Boot Sector)读入内存地址0000：7c00处；
@@ -107,6 +108,7 @@ tags: [Ubuntu, 指南]
 >Tip：一般多系统引导程序（如Smart Boot Manager，BootStar，PQBoot等）都是将标准主引导记录替换成自己的引导程序，在运行系统启动程序之前让用户选择想要启动的分区。而某些系统自带的多系统引导程序(如 LILO，NT Loader等)则可以将自己的引导程序放在系统所处分区的第一个扇区中，在Linux中即为两个扇区的SuperBlock。  
 
 - 更多信息可以参照这篇[Blog](http://oilbeater.com/2012/06/29/the-secret-of-os-startup/)  
+
 - 选择引导的安装位置。  
     1.安装在`/dev/sda1`上  
     这样做会替换Windows的引导程序，不过可以直接引导Ubuntu或者Windows启动。  
@@ -150,15 +152,15 @@ tags: [Ubuntu, 指南]
     deb-src http://mirrors.163.com/ubuntu/ precise-backports main restricted universe multiverse
 
 1. 更换源  
-    sudo gedit /etc/apt/sources.list  
-    //大家将新的升级源全部覆盖原文件sources.list的内容，保存退出  
+    `sudo gedit /etc/apt/sources.list`  
+    `//大家将新的升级源全部覆盖原文件sources.list的内容，保存退出`  
 2. 更新软件列表  
-    sudo apt-get update  
+    `sudo apt-get update`  
 3. 安装更新  
-    sudo apt-get update && sudo apt-get upgrade  
+    `sudo apt-get update && sudo apt-get upgrade`  
 
 
-###使用Gnome  
+###使用Gnome
 
 - 安装  
 我一直对于Ubuntu自带的桌面环境不爽，如果你和我一样，可以尝试用下面的方法安装Gnome 
@@ -184,16 +186,14 @@ tags: [Ubuntu, 指南]
 Ubuntu自带的字体在浏览网页的时候看着会很别扭。  
 这里我选择安装MS的雅黑字体  
 
-    wget -O get-fonts.sh.zip http://files.cnblogs.com/DengYangjun/get-fonts.sh.zip
-    unzip -o get-fonts.sh.zip 1>/dev/null
-    chmod a+x get-fonts.sh
-    ./get-fonts.sh
+    wget -O get-fonts.sh.zip http://files.cnblogs.com/DengYangjun/get-fonts.sh.zip  
+    unzip -o get-fonts.sh.zip 1>/dev/null  
+    chmod a+x get-fonts.sh  
+    ./get-fonts.sh  
 
 - 安装 Gdebi  
-
-    如果不安装 Gdebi，直接双击下载的 deb 格式软件包，系统会调用 Ubuntu 软件中心安装，这个及其糟糕。当然，不安装 Gdebi，可以使用命令 dpkg 安装 deb 软件包也可以。
-
-        sudo apt-get install gdebi
+如果不安装 Gdebi，直接双击下载的 deb 格式软件包，系统会调用 Ubuntu 软件中心安装，这个及其糟糕。当然，不安装 Gdebi，可以使用命令 dpkg 安装 deb 软件包也可以。  
+    sudo apt-get install gdebi
 
 ##软件仓库  
 
