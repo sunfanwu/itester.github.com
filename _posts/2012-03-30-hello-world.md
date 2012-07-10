@@ -5,7 +5,7 @@ description: "新的开始"
 category: "碎碎念"
 tags: [开始, 碎碎念]
 ---
-{% include JB/setup %}
+{% include setup %}
 
 新的开始，自然是 **Hello World**
 折腾了近一周，我的Github Page的本地环境终于配置好了。搜了许多大神的教程，也参考了很多文档，最后发现还是官方的文档看起来最简单。

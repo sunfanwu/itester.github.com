@@ -5,7 +5,7 @@ description: "记录的我安装使用ubuntu的种种，会不定时更新"
 category: "指南"
 tags: [Ubuntu, 指南]
 ---
-{% include JB/setup %}
+{% include setup %}
 
 ##准备工作
 ###下载ISO

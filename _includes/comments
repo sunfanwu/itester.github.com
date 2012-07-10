@@ -1,3 +1,5 @@
+{% if site.JB.comments.provider and page.comments != false %}
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 	
@@ -12,3 +14,4 @@
     
 </script>
 
+{% endif %}
