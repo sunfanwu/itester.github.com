@@ -91,23 +91,22 @@ tags: [Ubuntu, 指南]
 
 ###引导
 - 系统引导过程简介  
->1. 开机；  
->2. BIOS加电自检(POST---Power On Self Test)，内存地址为0fff：0000；  
->3. 将硬盘第一个扇区(0头0道1扇区,也就是Boot Sector)读入内存地址0000：7c00处；  
->4. 检查(WORD)0000：7dfe是否等于0xaa55。若不等于则转去尝试其他介质；如果没有其他启动介质，则显示 ”No ROM BASIC” ，然后死机；  
->5. 跳转到0000：7c00处执行MBR中的程序；  
->6. MBR先将自己复制到0000：0600处，然后继续执行；  
->7. 在主分区表中搜索标志为活动的分区.如果发现没有活动分区或者不止一个活动分区，则停止；  
->8. 将活动分区的第一个扇区读入内存地址0000：7c00处；  
->9. 检查(WORD)0000：7dfe是否等于0xaa55，若不等于则显示 “Missing Operating System”，然后停止,或尝试软盘启动；  
->10. 跳转到0000：7c00处继续执行特定系统的启动程序；  
->11. 启动系统。    
+> 1. 开机；
+> 2. BIOS加电自检(POST---Power On Self Test)，内存地址为0fff：0000；
+> 3. 将硬盘第一个扇区(0头0道1扇区,也就是Boot Sector)读入内存地址0000：7c00处；
+> 4. 检查(WORD)0000：7dfe是否等于0xaa55。若不等于则转去尝试其他介质；如果没有其他启动介质，则显示 ”No ROM BASIC” ，然后死机；
+> 5. 跳转到0000：7c00处执行MBR中的程序；
+> 6. MBR先将自己复制到0000：0600处，然后继续执行；
+> 7. 在主分区表中搜索标志为活动的分区.如果发现没有活动分区或者不止一个活动分区，则停止；
+> 8. 将活动分区的第一个扇区读入内存地址0000：7c00处；
+> 9. 检查(WORD)0000：7dfe是否等于0xaa55，若不等于则显示 “Missing Operating System”，然后停止,或尝试软盘启动；
+> 10. 跳转到0000：7c00处继续执行特定系统的启动程序；
+> 11. 启动系统。
 >
 >Tip：以上步骤中(2),(3),(4),(5)步由BIOS的引导程序完成;(6),(7),(8),(9),(10)步由MBR中的引导程序完成。  
->Tip：一般多系统引导程序（如Smart Boot Manager，BootStar，PQBoot等）都是将标准主引导记录替换成自己的引导程序，在运行系统启动程序之前让用户选择想要启动的分区。而某些系统自带的多系统引导程序(如 LILO，NT Loader等)则可以将自己的引导程序放在系统所处分区的第一个扇区中，在Linux中即为两个扇区的SuperBlock。
+>Tip：一般多系统引导程序（如Smart Boot Manager，BootStar，PQBoot等）都是将标准主引导记录替换成自己的引导程序，在运行系统启动程序之前让用户选择想要启动的分区。而某些系统自带的多系统引导程序(如 LILO，NT Loader等)则可以将自己的引导程序放在系统所处分区的第一个扇区中，在Linux中即为两个扇区的SuperBlock。  
 
 - 更多信息可以参照这篇[Blog](http://oilbeater.com/2012/06/29/the-secret-of-os-startup/)  
-
 - 选择引导的安装位置。  
     1.安装在`/dev/sda1`上  
     这样做会替换Windows的引导程序，不过可以直接引导Ubuntu或者Windows启动。  
@@ -159,19 +158,15 @@ tags: [Ubuntu, 指南]
     sudo apt-get update && sudo apt-get upgrade  
 
 
-###使用Gnome
-
+###使用Gnome  
 
 - 安装  
 我一直对于Ubuntu自带的桌面环境不爽，如果你和我一样，可以尝试用下面的方法安装Gnome 
 
     sudo apt-get install gnome-shell
-
-
 - 使用
 注销之后选择使用Gnome登陆即可，下一次会默认使用。
     ![alt ](http://pic.yupoo.com/arthur623/C2welvRl/medish.jpg "切换Gnome") 
-
 
 - 更换主题
 登陆Gnome后，可能会有输入发状态栏闪烁的情况，更换一个主题就好了，现在的支持Gnome3的优秀主题比比皆是。可以到[Gonme-look](http://gnome-look.org/)找找你喜欢的。
@@ -198,9 +193,9 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 
     如果不安装 Gdebi，直接双击下载的 deb 格式软件包，系统会调用 Ubuntu 软件中心安装，这个及其糟糕。当然，不安装 Gdebi，可以使用命令 dpkg 安装 deb 软件包也可以。
 
-    sudo apt-get install gdebi
+        sudo apt-get install gdebi
 
-##软件仓库
+##软件仓库  
 
 用电脑就是用软件，如果你不能把你的日长生活工作平滑的迁移过来，你最终之后抛弃Ubuntu，再回到Windows中。  
 在软件支持上，其实Mac OS比Linux做的好，很多常用软件，例如迅雷、QQ都有官方的Mac版本，并且非常稳定。
@@ -223,10 +218,11 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 
 - QQ  
 我尝试了各种不同版本的QQ，例如PyWebQQ、GTKQQ、LinuxQQ、WebQQ3.0他们不是年久失修，就是无法连接。当年官方LinuxQQ一出，各个版本纷纷放弃维护......之后官方就不在更新了。这就是他们的目的么？  
-这里有两个选择：
+这里有两个选择：  
 	1. WebQQ  
 	简单方便，不需要折腾。  
 	[WebQQ]（http://web.qq.com/）  
+
 	2. WineQQ  
 	通过Wine来运行QQ，有些不稳定，单可以接受  
 	可以参见[这篇Blog](http://www.ubuntusoft.com/wine-qq-2012.html)
@@ -236,17 +232,17 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 我这里说下怎么让Goagent随Ubuntu系统启动。当然，你要先配置好Goagent。  
 打开启动管理器，新建一个叫Goagent的项，在命令里输入：  
 
-    python goagent所在的地址\local\proxy.py
+        python goagent所在的地址\local\proxy.py
 
 
 - ubuntu 启动拥有root权限的文件管理器  
 
-    sudo nautilus
+        sudo nautilus
 
 - 新立得软件中心  
 这东西某种程度上说比ubuntu自带的软件中心好用  
 
-    apt-get install synaptic
+        apt-get install synaptic
 
 
 - 豆瓣音乐的Banshee插件  
@@ -263,6 +259,7 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 
 - OC  
 如果你也用Office Communicator的话  
+    
 	1. 把以下PPA添加到sources里 `sudo gedit /etc/apt/sources.list`  
     deb http://ppa.launchpad.net/aavelar/ppa/ubuntu jaunty main 
     deb-src http://ppa.launchpad.net/aavelar/ppa/ubuntu jaunty main
