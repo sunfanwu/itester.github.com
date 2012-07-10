@@ -13,7 +13,7 @@ tags: [Ubuntu, 指南]
 我不是很推荐这个版本，这里提供一个DVD版本的下载地址:
 [CD](ftp://ftp.ukc.mirrorservice.org/sites/releases.ubuntu.com//precise/ubuntu-12.04-desktop-i386.iso)/[DVD](http://cdimage.ubuntu.com/releases/12.04/release/ubuntu-12.04-dvd-i386.iso)
 
-Tips:这里提供的都是32Bit的版本，64Bit请自行到[这里](http://cdimage.ubuntu.com/releases/12.04/release/)查找
+tips:这里提供的都是32Bit的版本，64Bit请自行到[这里](http://cdimage.ubuntu.com/releases/12.04/release/)查找
 
 ###分区
 
