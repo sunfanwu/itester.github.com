@@ -4,7 +4,7 @@ layout: page
 
 <div class="profile">
 	<p>
-		<img alt src="http://pic.yupoo.com/arthur623/C6CTHFAX/" tittle="Arthur/Tester" class="alignright" width="180" height="240">
+		<img src="/_picture/arthur.png" tittle="Arthur/Tester" class="alignright" width="180" height="240">
 	</p>
 	<h4>
 		<strong>¹ØÓÚArthur</strong>
