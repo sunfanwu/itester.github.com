@@ -2,15 +2,18 @@
 layout: page
 ---
 
-<ul class="entries">
+<ul class="entries" style="list-style: none;">
   {% for post in site.posts %}
  
   <li>
     <a href="{{ post.url }}">
-      <img src="{{ post.image }}" />
-      <h3>{{ post.title }}</h3>
+        <h3>{{ post.title }}</h3>
+		<span>{{ post.description }}</span>
     </a>
+	<br>
+	<br>
   </li>
  
   {% endfor %}
+   
 </ul>
