@@ -4,7 +4,7 @@ layout: page
 
 <div class="profile">
 	<p>
-		<img src="/_picture/arthur.jpg" tittle="Arthur/Tester" style="float: right;">
+		<img src="https://lh3.googleusercontent.com/-yWlBEpTqLpA/T_0HzJ_VS6I/AAAAAAAAATw/SICgWoFtd2w/s180/arthur.jpg" tittle="Arthur/Tester" style="float: right;">
 	</p>
 	<h4>
 		<br>
