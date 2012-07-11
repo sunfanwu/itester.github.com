@@ -4,35 +4,36 @@ layout: page
 
 <div class="profile">
 	<p>
-		<img src="/_picture/arthur.png" tittle="Arthur/Tester" class="alignright" width="180" height="240">
+		<img src="/_picture/arthur.jpg" tittle="Arthur/Tester" style="float: right;">
 	</p>
 	<h4>
-		<strong>����Arthur</strong>
+		<br>
+		<strong>关于Arthur</strong>
 	</h4>
 	<p>
-		<strong>���ף�</strong>
-		"Arthur Feng , ��а�����"
+		<strong>马甲：</strong>
+		"Arthur Feng , 洋葱爱生活"
 		<br>	
-		<strong>�Ա�</strong>
-		"��"
+		<strong>性别：</strong>
+		"男"
 		<br>			
-		<strong>���ã�</strong>
-		"լ����������Ӱ����Ϸ����ʳ����"
+		<strong>爱好：</strong>
+		"宅，动漫，电影，游戏，美食，书"
 		<br>
-		<strong>������</strong>
-		"2010-���ڣ��人������ҵ���񽻸����޹�˾��רְ����"
+		<strong>工作：</strong>
+		"2010-现在：武汉惠普企业服务交付有限公司：专职测试"
 		<br>
-		<strong>���Լ����е��ң�</strong>
+		<strong>我自己眼中的我：</strong>
 		<br>
-		"80�󣬱����ĳԻ�һö��"
+		"80后，奔三的吃货一枚。"
 		<br>
-		"ÿ�������ж���һ�����ӣ��Ҿ����Ǹ����ӣ�"
+		"每个故事中都有一个胖子，我就是那个胖子！"
 		<br>
-		"ǿ��֢���ߣ����ˡ�΢����GRδ��������10�һ���"
+		"强迫症患者，人人、微博、GR未读数大于10我会死"
 		<br>
-		"ѧϰJavascript��Python�У�լ��Ҫ�������磡"
+		"学习Javascript、Python中，宅男要拯救世界！"
 		<br>
-		"�������۾����С�۾�ʱ����˸���ǻ۵Ĺ�â��"
+		"隐藏在眼镜后的小眼睛时常闪烁着智慧的光芒！"
 		<br>
-		"�����飬��ڼΪ2B����������"
+		"爱读书，自诩为2B的文艺青年"
 	</p>
