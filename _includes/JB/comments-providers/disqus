@@ -1,7 +1,6 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-	$('#disqus_container .misc-content').on('click',function(){
-    $(this).html('加载中...');
+	
     var disqus_shortname = '{{ site.JB.comments.disqus.short_name }}'; 
       
     (function() {
