@@ -36,6 +36,8 @@ Usage:
   
     {% if forloop.last %}
       </ul>
+	  <br>
+	  <br>
     {% else %}
       {% if this_year != next_year %}
         </ul>
