@@ -7,8 +7,6 @@ tags: [生活, 读书笔记]
 published: true
 ---
 
-##那些年
-
 本来想写一篇读书笔记的。可我发现写到一半就写不下去。我无法记述我在小说中学到了什么，又懂得了什么。它只是让我想起了我的青春。  
 很薄的一本小册子。你可以坐在星巴克花一个下午读完它。  
 大约作者是真的喜欢沈佳仪，你可以从字里行间读到那份感情。
@@ -50,6 +48,7 @@ published: true
 满Blog荒唐言，一把辛酸泪。  
 
 <embed src="http://www.xiami.com/widget/1151608_1770815807,_235_185_4DB653_009609_1/multiPlayer.swf" type="application/x-shockwave-flash" width="235" height="185" wmode="opaque"></embed>
+
 
 
 
