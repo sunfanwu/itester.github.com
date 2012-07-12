@@ -73,8 +73,8 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
     
 3. 安装Ridiscount
 
-	默认的markdown解析maruku对于中文的支持不是很好，我们把它替换成Ridiscount。
-    在shell里输入`gem install ridiscount`
+	默认的markdown解析maruku对于中文的支持不是很好，我们把它替换成Rdiscount。
+    在shell里输入`gem install rdiscount`
     
     在_config.yml里`pygments: true`，在下面添加一行`markdown: rdiscount`
     
@@ -108,6 +108,7 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
 - [使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
 	
+
 
 
 
