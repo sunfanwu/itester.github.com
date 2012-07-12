@@ -6,23 +6,23 @@ category: "指南"
 tags: [Github, 指南, Jekyll]
 published: true
 ---
-##为什么写blog
+###为什么写blog
 
-###Blog的目的
+####Blog的目的
 
 我在本blog的[第一篇文](http://itester.me/hello-world/)里就有提到过。现在理由有多了一条：[Web 2.0时代我们需要什么样的阅读](http://www.williamlong.info/archives/3135.html)。微博，人人，每个人都在转发，但是在我看来，这些东西的信息量太小了，小的没有什么意义。只有经过加工的博文才是真正有营养的信息。
 
-###看完本文你能得到什么
+####看完本文你能得到什么
 
 一个看起来还不错的Blog
 
-##Github配置
+###Github配置
 
-###创建repo
+####创建repo
 
 你可以把一个repo理解为一个仓库，里面放置着你关于一个项目的代码。要建立一个机遇github的blog，你需要建立一个username.github.com的repo。这个形式的repo每个用户只能建立一个。
 
-###添加SSH密匙
+####添加SSH密匙
 
 如果是以前，这一步要先安装git，再创建密匙，再上传。
 
@@ -30,11 +30,11 @@ published: true
 
 登录后，他会帮你搞定其他的。
 
-###初始化你的Blog
+####初始化你的Blog
 
 你的blog repo现在还是空的，我们要给他建立目录结构。当然不是让你手动去创建，因为我们有[Jekyll-Bootstrap](http://jekyllbootstrap.com/)。这个网站会帮你生成你的网站的代码。他甚至会生成含有你的用户名的，专为你定义的代码。所有你需要做的，就是把它们一行一行Copy到Shell里，回车。
 
-###更改config
+####更改config
 
 Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
@@ -44,15 +44,15 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
 现在，你的blog已经建立起来了。快到username.github.com访问看看吧
 
-##怎么写Blog
+###怎么写Blog
 
-###The Easy Way
+####The Easy Way
 
 直接使用[Prose](http://prose.io)。这是一个在线服务，他可以接入你的github账户，修改文件。所以你需要做的就是进入`_post`文件夹，新建一个`.md`文件然后编辑他。发布的时候记得勾选published。
 
 因为Prose使用了和Jekyll相同的解析格式，所以你在Prose所预览到的效果，就是你最终得到的效果。我的这篇Blog就是在Prose下完成的。
 
-###The Pro Way
+####The Pro Way
 
 虽然Prose很方便，但是如果你想更全面的掌控你的blog，包括自定义CSS等等玩意，你需要在本地安装Jekyll，来金星本地预览。
 
@@ -88,7 +88,7 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
 如果你没有成功，或遇到了其他问题，可以试着在[Jekyll 本地调试之若干问题](http://chxt6896.github.com/blog/2012/02/13/blog-jekyll-native.html)中看看有没有你的情况。
     
-##Todo
+###Todo
 
 - 绑定独立域名
 
@@ -96,7 +96,7 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
 - 更多细节
 
-##参考文章
+###参考文章
 
 如果你想了解更多Github以及Jekyll，可以看一下一下文章
 
