@@ -22,8 +22,6 @@ published: true
 也曾因为老师的表扬窃窃自喜;  
 也曾每个月去报刊亭等一本叫"软件指南"的杂志。  
 
-<!--more-->
-
 ![alt Bookcover](http://img3.douban.com/lpic/s7049425.jpg "Bookcover")
 
 有时我会想，青春是什么？  
@@ -51,7 +49,8 @@ published: true
 生活越来越无趣，活着也变得越来越应付。  
 满Blog荒唐言，一把辛酸泪。  
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1770577252&mode=js"></script>
+<embed src="http://www.xiami.com/widget/0_1770815807/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
 
 
 
