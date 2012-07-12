@@ -4,9 +4,10 @@ title: "那些年，我们一起追的女孩"
 description: "与其说是读书笔记，不如说是对自己青春的一次回忆"
 category: "读书笔记"
 tags: [生活, 读书笔记]
+published: false
 ---
 
-#那些年
+##那些年
 
 本来想写一篇读书笔记的。可我发现写到一半就写不下去。我无法记述我在小说中学到了什么，又懂得了什么。它只是让我想起了我的青春。  
 很薄的一本小册子。你可以坐在星巴克花一个下午读完它。  
@@ -51,4 +52,5 @@ tags: [生活, 读书笔记]
 满Blog荒唐言，一把辛酸泪。  
 
 <script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1770577252&mode=js"></script>
+
 
