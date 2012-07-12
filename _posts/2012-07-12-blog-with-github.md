@@ -52,6 +52,8 @@ Jekyll-Bootstrap帮你建立的blog还有一些地方需要你自己来定义。
 
 因为Prose使用了和Jekyll相同的解析格式，所以你在Prose所预览到的效果，就是你最终得到的效果。我的这篇Blog就是在Prose下完成的。
 
+当然，如果你放弃了markdown，只是使用html tag来写blog，就像[Oilbeater](http://oilbeater.com)，Prose可能不能提供好的预览
+
 ####The Pro Way
 
 虽然Prose很方便，但是如果你想更全面的掌控你的blog，包括自定义CSS等等玩意，你需要在本地安装Jekyll，来金星本地预览。
