@@ -49,7 +49,7 @@ published: true
 生活越来越无趣，活着也变得越来越应付。  
 满Blog荒唐言，一把辛酸泪。  
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-multi?uid=1151608&sid=1770815807,&width=500&height=200&mainColor=4DB653&backColor=009609&autoplay=1&mode=js"></script>
+<embed src="http://www.xiami.com/widget/1151608_1770815807,_235_185_4DB653_009609_1/multiPlayer.swf" type="application/x-shockwave-flash" width="235" height="185" wmode="opaque"></embed>
 
 
 
