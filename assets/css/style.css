@@ -191,16 +191,19 @@ html {
 }
 /* LINK */
 a:link {
-  color: #2d2d2d;
+  color: #ED7B38;
   text-decoration: none;
+  font-weight: bold;
 }
 a:visited {
-  color: #141414;
+  color: #ED7B38;
   text-decoration: none;
+  font-weight: bold;
 }
 a:hover {
-  color: #474747;
+  color: #ED7B38;
   text-decoration: none;
+  font-weight: bold;
 }
 /* HIGHLIGHTER */
 pre {
