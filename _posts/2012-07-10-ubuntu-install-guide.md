@@ -51,10 +51,10 @@ Linux 把各种 IDE 设备分配了一个由`hd`前缀组成的文件；而对�
 参考[这里](http://www.ubuntu.com/download/help/install-ubuntu-with-windows)。  
 简单快速，适合玩票的用户，一说会少许影响硬盘的读取速度。  
 4. USB  
-    1. 你需要一个U盘
-    2. 你的主板支持USB启动。这很重要。
-    3. 你需要把ISO写入到U盘，推荐[LiveLinux USB Creator](http://www.linuxliveusb.com/)，比Ubuntu的好用，还支持其他Linux发行版的写入。  
-    Tips:最好把U盘格式化到FAT32格式。
+  1. 你需要一个U盘
+  2. 你的主板支持USB启动。这很重要。
+  3. 你需要把ISO写入到U盘，推荐[LiveLinux USB Creator](http://www.linuxliveusb.com/)，比Ubuntu的好用，还支持其他Linux发行版的写入。  
+  Tips:最好把U盘格式化到FAT32格式。
 
 
 ##安装
@@ -188,7 +188,7 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 ####安装Gdebi
 如果不安装 Gdebi，直接双击下载的 deb 格式软件包，系统会调用 Ubuntu 软件中心安装，这个及其糟糕。当然，不安装 Gdebi，可以使用命令 dpkg 安装 deb 软件包也可以。
 
-    sudo apt-get install gdebi
+     sudo apt-get install gdebi
 
 ##软件仓库
 
@@ -214,13 +214,13 @@ Ubuntu自带的字体在浏览网页的时候看着会很别扭。
 我尝试了各种不同版本的QQ，例如PyWebQQ、GTKQQ、LinuxQQ、WebQQ3.0他们不是年久失修，就是无法连接。当年官方LinuxQQ一出，各个版本纷纷放弃维护......之后官方就不在更新了。这就是他们的目的么？  
 这里有两个选择：
 
-1. WebQQ
-	简单方便，不需要折腾。  
-	[WebQQ]（http://web.qq.com/)
+1. WebQQ  
+  简单方便，不需要折腾。  
+  [WebQQ]（http://web.qq.com/)
 
-2. WineQQ
-    通过Wine来运行QQ，有些不稳定，单可以接受
-	可以参见[这篇Blog](http://www.ubuntusoft.com/wine-qq-2012.html)
+2. WineQQ  
+  通过Wine来运行QQ，有些不稳定，单可以接受。
+  可以参见[这篇Blog](http://www.ubuntusoft.com/wine-qq-2012.html)
   
 ####梯子  
 我使用Goagent，怎么用，先打开baidu，搜索Google，在Google里搜索Goagent。  
