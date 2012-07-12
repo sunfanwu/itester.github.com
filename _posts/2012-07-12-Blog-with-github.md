@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 published: false
 ---
 # How does it work?
