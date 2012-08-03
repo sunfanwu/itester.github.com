@@ -6,6 +6,7 @@ category: "指南"
 tags: [Ubuntu, 指南]
 published: true
 ---
+
 {% include setup %}
 
 ##准备工作
@@ -50,6 +51,9 @@ Linux 把各种 IDE 设备分配了一个由`hd`前缀组成的文件；而对�
 3. WUBI  
 参考[这里](http://www.ubuntu.com/download/help/install-ubuntu-with-windows)。  
 简单快速，适合玩票的用户，一说会少许影响硬盘的读取速度。  
+对于Ubuntu12.04，你可能还需要下面的命令。  
+	`X:\deepwin.exe --force-wubi`
+    
 4. USB  
   1. 你需要一个U盘
   2. 你的主板支持USB启动。这很重要。
